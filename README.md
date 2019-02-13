@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<div align="center">
+    <h1>jerry的博客</h1>
+</div>
 
-You can use the [editor on GitHub](https://github.com/JerryWang1996/jerrywangBlog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+    <a href="#GitHub issues" alt="GitHub issues">
+        <img src="https://img.shields.io/github/issues/JerryWang1996/jerrywangBlog.svg?style=social" /></a>
+<a href="#GitHub forks" alt="GitHub forks">
+        <img src="https://img.shields.io/github/forks/JerryWang1996/jerrywangBlog.svg?style=social" /></a>
+<a href="#GitHub stars" alt="GitHub stars">
+        <img src="https://img.shields.io/github/stars/JerryWang1996/jerrywangBlog.svg?style=social" /></a>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+jerry的博客--基于Github Pages+issues + VUE 2.0 框架构建的轻量级静态个人博客系统💎
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](http://p7fcrq2e4.bkt.clouddn.com/201818101007-chrome20180910_100733.png)
 
-```markdown
-Syntax highlighted code block
+------
 
-# Header 1
-## Header 2
-### Header 3
+💓💓💓
+# 博客分类：
 
-- Bulleted
-- List
+01-Linux 系列
 
-1. Numbered
-2. List
+02-数据库系列
 
-**Bold** and _Italic_ and `Code` text
+03-JAVA 基础系列
 
-[Link](url) and ![Image](src)
-```
+04-JAVA Web 系列
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+05-分布式架构系列
 
-### Jekyll Themes
+06-大数据系列
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JerryWang1996/jerrywangBlog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+07-Spring 系列
 
-### Support or Contact
+08-开发工具系列
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+09-综合系列
+
+10-待整理
+
+------
+
+💓💓💓
+
+关于我：1183687257@qq.com
+
+专注于：
+
+Web前端开发，喜欢研究新技术,Vue的忠实追随者；
+
+业余爱好：
+
+撸代码，看科技资讯，喜欢折腾。
+
+------
+
+💓💓💓
+
+# 致谢：
+
+> 作者：[bingoogolapple](https://github.com/bingoogolapple)
+
+> https://github.com/bingoogolapple/BGAIssueBlog
+
