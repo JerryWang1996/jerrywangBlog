@@ -40,11 +40,12 @@ jerry的博客--基于Github Pages+issues + VUE 2.0 框架构建的轻量级静�
 
 💓💓💓
 
-关于我：1183687257@qq.com
+关于我：
+jerrywang_233@163.com
 
 专注于：
 
-Web前端开发，喜欢研究新技术，Vue的追随者；
+Web前端开发，喜欢研究新技术，Vue的追随者。
 
 业余爱好：
 
