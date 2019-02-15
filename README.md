@@ -57,5 +57,5 @@ Web前端开发，喜欢研究新技术，Vue的追随者。
 
 # 致谢：
 
-> 作者：[bingoogolapple]
+> 作者：bingoogolapple
 
