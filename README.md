@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/github/stars/JerryWang1996/jerrywangBlog.svg?style=social" /></a>
 </p>
 
-jerry的博客--基于Github Pages+issues + VUE 2.0 框架构建的轻量级静态个人博客系统💎
+jerry的博客--基于Github Pages + Issues + VUE 2.0 框架构建的轻量级静态个人博客系统💎
 
 ------
 
@@ -57,7 +57,5 @@ Web前端开发，喜欢研究新技术，Vue的追随者。
 
 # 致谢：
 
-> 作者：[bingoogolapple](https://github.com/bingoogolapple)
-
-> https://github.com/bingoogolapple/BGAIssueBlog
+> 作者：[bingoogolapple]
 
